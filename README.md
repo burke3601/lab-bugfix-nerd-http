@@ -20,3 +20,9 @@ Slytherin
 The source for the character information is the [nerds node module](https://github.com/SkyHacks/nerds).
 
 See if you can change the "topic" from Harry Potter to Pokemon or Star Wars.
+
+
+
+
+-fixed spelling error on "dev" script
+- house vriable was declared. but not called (updated to `` from '')

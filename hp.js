@@ -15,6 +15,6 @@ const app = (req, res) => {
     `);
     
     res.statusCode = 200;
-    res.write('<h2>${house}</h2>');
+    res.write(`<h2>${house}</h2>`);
 }
 module.exports = app;
